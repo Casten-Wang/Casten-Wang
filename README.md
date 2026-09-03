@@ -1,6 +1,6 @@
 <!-- ============================================================
      Casten-Wang · GitHub Profile
-     Brand: infini — The Future Is Here (未来已来)
+     Brand: infini — The Future Is Here
      Palette: violet #7C3AED · fuchsia #C026D3 · cyan #64FFDA
               violet-soft #A78BFA · ink #05060A · muted #9AA3BD
      All visuals are dynamic SVG services (GitHub strips CSS/JS).
@@ -10,7 +10,7 @@
 <div align="center">
 
 <img width="100%" alt="infini — The Future Is Here"
-     src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C026D3,100:64FFDA&height=300&section=header&text=infini&fontSize=96&fontColor=ffffff&fontAlignY=40&font=Space%20Grotesk&desc=Casten%20Wang%20%C2%B7%20LLM%20Inference%20%26%20GPU%20Kernels&descSize=20&descAlignY=62&animation=fadeIn" />
+     src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C026D3,100:64FFDA&height=300&section=header&text=infini&fontSize=96&fontColor=ffffff&fontAlignY=40&font=Space%20Grotesk&desc=Casten%20Wang%20%C2%B7%20LLM%20Inference%20%C2%B7%20GPU%20Kernels&descSize=20&descAlignY=62&animation=fadeIn" />
 
 <!-- animated tagline -->
 <a href="https://github.com/Casten-Wang">
@@ -20,7 +20,7 @@
 
 <br/>
 
-**未来已来** &nbsp;·&nbsp; _building intelligence without limits_
+**∞** &nbsp;·&nbsp; _building intelligence without limits_
 
 <br/>
 
