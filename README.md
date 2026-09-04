@@ -15,25 +15,13 @@
 <!-- animated tagline -->
 <a href="https://github.com/Casten-Wang">
   <img alt="The Future Is Here"
-       src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&pause=1100&color=A78BFA&center=true&vCenter=true&width=820&height=58&lines=The+Future+Is+Here;Optimizing+LLM+inference+from+operators+to+systems;Building+CUDA+%2F+HIP+kernels+for+real+hardware;Measure+first.+Optimize+what+matters." />
+       src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&pause=1100&color=A78BFA&center=true&vCenter=true&width=820&height=58&lines=Optimizing+LLM+inference+from+operators+to+systems;Building+CUDA+%2F+HIP+kernels+for+real+hardware;Measure+first.+Optimize+what+matters." />
 </a>
-
-<br/>
-
-**∞** &nbsp;·&nbsp; _building intelligence without limits_
 
 <br/>
 
 <img alt="Profile views"
      src="https://komarev.com/ghpvc/?username=Casten-Wang&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
-&nbsp;
-<img alt="Focusing"
-     src="https://img.shields.io/badge/%F0%9F%8E%AF-Focusing-C026D3?style=for-the-badge&labelColor=05060A" />
-&nbsp;
-<a href="https://github.com/Casten-Wang?tab=followers">
-  <img alt="Followers"
-       src="https://img.shields.io/github/followers/Casten-Wang?style=for-the-badge&label=FOLLOWERS&color=64FFDA&labelColor=05060A&logo=github&logoColor=64FFDA" />
-</a>
 
 <img width="100%" alt=""
      src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C026D3,100:64FFDA&height=3&section=header" />
@@ -72,25 +60,9 @@ Added a shared-memory tiled-transpose path to the HIP backend for a non-contiguo
   <img alt="CUDA"       src="https://img.shields.io/badge/CUDA-05060A?style=for-the-badge&logo=nvidia&logoColor=64FFDA&labelColor=05060A" />
   <img alt="HIP / ROCm" src="https://img.shields.io/badge/HIP%20%2F%20ROCm-05060A?style=for-the-badge&logo=amd&logoColor=64FFDA&labelColor=05060A" />
   <img alt="Python"     src="https://img.shields.io/badge/Python-05060A?style=for-the-badge&logo=python&logoColor=64FFDA&labelColor=05060A" />
-  <img alt="llama.cpp"  src="https://img.shields.io/badge/llama.cpp-05060A?style=for-the-badge&labelColor=05060A" />
-  <img alt="vLLM"       src="https://img.shields.io/badge/vLLM-05060A?style=for-the-badge&labelColor=05060A" />
+  <img alt="llama.cpp"  src="https://img.shields.io/badge/llama.cpp-05060A?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=05060A" />
+  <img alt="vLLM"       src="https://img.shields.io/badge/vLLM-05060A?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=05060A" />
 </p>
-
-## GitHub activity
-
-<div align="center">
-
-<img width="82%" alt="Casten-Wang · GitHub profile summary"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Casten-Wang&theme=radical" />
-
-<img width="40%" alt="Most-used languages"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Casten-Wang&theme=radical" />
-<img width="40%" alt="Most productive time"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Casten-Wang&theme=radical&utcOffset=8" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
