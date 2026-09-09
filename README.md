@@ -37,22 +37,6 @@ I'm a systems engineer focused on **LLM inference** and **GPU kernel optimizatio
 - 🌱 &nbsp;Exploring vLLM PD disaggregation, speculative decoding, and kernel autotuning
 - 📐 &nbsp;Approach: **profile → isolate → optimize → verify correctness → benchmark**
 
-## Featured work
-
-### llama.cpp · RDNA 3.5 F32 `CONCAT` fast path
-
-Added a shared-memory tiled-transpose path to the HIP backend for a non-contiguous F32 workload observed during Qwen3.6-35B-A3B prefill.
-
-- **+4% to +12%** measured prefill throughput
-- Bit-identical output for the copy/reorder operation
-- No meaningful decode regression
-- 32×32 shared-memory tiling with bank-conflict padding
-
-<a href="https://github.com/ggml-org/llama.cpp/pull/28303">
-  <img alt="View llama.cpp PR #28303"
-       src="https://img.shields.io/badge/View%20on%20GitHub-llama.cpp%20PR%20%2328303-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=05060A" />
-</a>
-
 ## Toolbox
 
 <p>
